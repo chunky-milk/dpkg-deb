@@ -3,7 +3,7 @@ Version: VERSION-TO-REPLACE
 Section: net
 Priority: optional
 Architecture: ARCHI-TO-REPLACE
-Maintainer: Azlux <github@azlux.fr>
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
 Description: A very simple webhook server launching shell scripts.
 Homepage: https://github.com/ncarlier/webhookd
 Bugs: https://github.com/ncarlier/webhookd/issues
